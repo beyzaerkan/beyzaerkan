@@ -1,7 +1,8 @@
 # Hi there, I'm Beyza :balloon:
 ### Computer Science Student
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzaerkan&label=Profile%20views&color=ED4A1F&style=flat" alt="beyzaerkan" /> </p>
 
-- 📫 How to reach me **beyzaerkan@icloud.com**
+ 📫 How to reach me **beyzaerkan@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
