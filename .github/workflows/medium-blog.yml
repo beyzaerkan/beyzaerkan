@@ -1,0 +1,17 @@
+name: Update Medium Blog Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Her pazar saat 00:00'da çalışır (UTC)
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@beyzaerkan"
