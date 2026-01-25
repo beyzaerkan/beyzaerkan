@@ -30,11 +30,11 @@ I'm passionate about writing clean, maintainable code and staying up to date wit
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Keycloakify Temasını Docker ile Deploy Etme](https://medium.com/@beyzaerkan/keycloakify-temas%C4%B1n%C4%B1-docker-ile-deploy-etme-e593a4de3f76?source=rss-24aab727671b------2)
 - [Keycloak’ta Varsayılan Olmayan Ekran Nasıl Eklenir?](https://medium.com/@beyzaerkan/keycloakta-varsay%C4%B1lan-olmayan-ekran-nas%C4%B1l-eklenir-506290e7486f?source=rss-24aab727671b------2)
 - [Keycloak Login Sayfası Nasıl Özelleştirilir? Keycloakify ile Tema Geliştirme](https://medium.com/@beyzaerkan/keycloak-login-sayfas%C4%B1-nas%C4%B1l-%C3%B6zelle%C5%9Ftirilir-keycloakify-ile-tema-geli%C5%9Ftirme-4c22371ee621?source=rss-24aab727671b------2)
 - [Keycloak Nedir?](https://medium.com/@beyzaerkan/keycloak-nedir-d2349b0bd040?source=rss-24aab727671b------2)
 - [Hatasız ve Tutarlı Kod İçin Husky, ESLint ve Prettier Nasıl Kullanılır?](https://medium.com/@beyzaerkan/hatas%C4%B1z-ve-tutarl%C4%B1-kod-i%CC%87%C3%A7in-husky-eslint-ve-prettier-nas%C4%B1l-kullan%C4%B1l%C4%B1r-a8fcd28f73d3?source=rss-24aab727671b------2)
-- [Socket.IO ile Mesajlaşma Mimarisi](https://medium.com/@beyzaerkan/socket-io-ile-mesajla%C5%9Fma-mimarisi-1f50f501d0fd?source=rss-24aab727671b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
